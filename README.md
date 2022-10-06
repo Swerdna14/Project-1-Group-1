@@ -30,11 +30,6 @@ Customer service is at the heart of what we do, our vision was to visualisatally
 
     - Mortage and Stamp Duty Calculator
 
-- Demonstration Customer 2
-
-    - House section
-
-    - Mortage and Stamp Duty Calculator
 
 - Future development of our tool
 
@@ -77,11 +72,6 @@ It is ok if they dont have all the answers in the beginning. Our system will bri
 This ouput result above is then plotted on an interactive map for the client to easily visualise postion and disctance from schools, waterfront or in this case the CBD.
 
 
-![Results_2](Results_2.png)
-
-We have included other elements that come into Real Estate evaluation including assessing median house price growth, mortage and stamp Duty calculators to help you make to right choice for you situation.
-
-
 
 ![Perth_1](/TEAM_1_Rural.png)
 
@@ -96,9 +86,9 @@ Lets discover your opportunities and enter what you know into this powerfully ef
 - Do you have an ideal distance form the CBD?
 - Do you have a budget in mind?
 
-![Customer_1_output_1](/Customer_1.png)
+![Customer_1_output_1](/Results_1.png)
 
-![Customer_1_output_2](/customer1map.png)
+![Customer_1_output_2](/customer1map.PNG)
 #  #
 ![TEAM_1_Ocean_views](/TEAM_1_Ocean.png)
 
