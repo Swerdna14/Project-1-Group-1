@@ -88,11 +88,9 @@ We have included other elements that come into Real Estate evaluation including 
 
 Lets discover your opportunities and enter what you know into this powerfully efficient tool.
 
-**Introducing Danni as Cusomter 1:**
+**Customer Example 1:**
 
-*Hi Danny, Please tell us your story ...* 
-
-#### And would you be able to outline some key criteria of your requirements
+#### Some criteria for selection
 - How many bedrooms do you prefer?
 - Would you like minimum land size?
 - Do you have an ideal distance form the CBD?
@@ -100,23 +98,10 @@ Lets discover your opportunities and enter what you know into this powerfully ef
 
 ![Customer_1_output_1](/Customer_1.png)
 
-![Customer_1_output_2](/Customer_1_map.png)
+![Customer_1_output_2](/customer1map.png)
 #  #
 ![TEAM_1_Ocean_views](/TEAM_1_Ocean.png)
-**Introducing Akhil as Cusomter 2:**
 
-*Hi Akhil, Please tell us your story ...* 
-
-#### And would you be able to outline some key criteria of your finance requirements
-
-- Do you have a budget in mind?
-- And over how many years?
-- And we shall assume the interest rate as...
-
-
-![Customer_2_output_1](/Customer_2.png)
-
-![Customer_2_output_2](/Customer_2_map.png)
 
 # Conclusion and next steps...
 As you have seen from the above examples by pulling data through our API and concatenating with our latest data, we are able to provide clarity and opportunity for your consideration. It should be noted that this service is still at the early stages of development and we intend to continue to advance the tool to help more people move to Western Australia. Our tool currently interates over 324 suburbs. 
