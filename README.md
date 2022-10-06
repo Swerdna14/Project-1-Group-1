@@ -10,7 +10,7 @@ From data to lifestyle, our passion is searching databases and refining solution
 ## Our Approach
 Our experienced data analysists have been working tirelessly with our finance team to bring you our market leading tool that refines your best options based on key criteria without wasting your time. We bring the latest data from a wide range of suburbs and bring it all together for you. We have achieved high accuracy with easy refinement based on your criteria. 
 
-Customer service is at the heart of what we do, our vision was to visualisatally create a list of top properties that fit your criteria, displayed on a simple map for your use. Our tool is configurable to your search criteria. Our 'SPSTool' is the single source of truth when it comes to your property search, financing or investing research. Our experienced professionals have extensive experience in their choosen fields and are here to assist you with anything you need. Your criteria will refine your selection as we walk you through the process from enquiry to location or discover your budget via our calculator... lets build your real estate story.
+Customer service is at the heart of what we do, our vision was to visually create a list of top properties that fit your criteria, displayed on a simple map for your use. Our tool is configurable to your search criteria. Our 'SPSTool' is the single source of truth when it comes to your property search, financing or investing research. Our experienced professionals have extensive experience in their choosen fields and are here to assist you with anything you need. Your criteria will refine your selection as we walk you through the process from enquiry to location or discover your budget via our calculator... lets build your real estate story.
 # #
 
 # Table of Contents
@@ -121,7 +121,7 @@ Lets discover your opportunities and enter what you know into this powerfully ef
 # Conclusion and next steps...
 As you have seen from the above examples by pulling data through our API and concatenating with our latest data, we are able to provide clarity and opportunity for your consideration. It should be noted that this service is still at the early stages of development and we intend to continue to advance the tool to help more people move to Western Australia. Our tool currently interates over 324 suburbs. 
 
-You can assess potential growth of a suburb and preferred distance form you chosen school however in the very near future our SPSTool_V2 will be taking things to the next level. Suburb build years, Median House price formula refinement, Heat maps, investor solutions, ROI and rental assessments will compliment this great tool. A snap shot of these outputs are provided below:
+You can assess potential growth of a suburb and preferred distance form you chosen school however in the very near future our SPSTool_V2 will be taking things to the next level. Suburb build years, Median House price formula refinement, Heat maps, investor solutions, ROI and rental assessments will be further refined and compliment this great tool. A snap shot of these outputs are provided below:
 
 ![School_land](School_land.png)
 ##  
