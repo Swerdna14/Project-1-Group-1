@@ -8,9 +8,9 @@ From data to lifestyle, our passion is searching databases and refining solution
 
 
 ## Our Approach
-Our experienced data analysists have been working tirelessly with our finance team to bring you our market leading insights that refines your best options based on key criteria without wasting your time. We have studied the latest data from a wide range of suburbs and bring it all together for you. We have achieved high accuracy with easy refinement based on a given criteria. 
+Our experienced data analysists have been working tirelessly with our finance team to bring you our market leading tool that refines your best options based on key criteria without wasting your time. We bring the latest data from a wide range of suburbs and bring it all together for you. We have achieved high accuracy with easy refinement based on your criteria. 
 
-Customer service is at the heart of what we do, our vision was to share our insights by creating a list of top properties that fit your criteria, displayed on a simple map for your use. Our tool can be configurable as you refine your search criteria. The 'SPSTool' is the single source of truth when it comes to your property search, financing or investing research. Our experienced professionals have extensive experience in their choosen fields and are here to assist you with anything you need. Your criteria will refine your selection as we walk you through the process from enquiry to location or discover your budget via our calculator... lets build your real estate story.
+Customer service is at the heart of what we do, our vision was to visually create a list of top properties that fit your criteria, displayed on a simple map for your use. Our tool is configurable to your search criteria. Our 'SPSTool' is the single source of truth when it comes to your property search, financing or investing research. Our experienced professionals have extensive experience in their choosen fields and are here to assist you with anything you need. Your criteria will refine your selection as we walk you through the process from enquiry to location or discover your budget via our calculator... lets build your real estate story.
 # #
 
 # Table of Contents
@@ -24,13 +24,13 @@ Customer service is at the heart of what we do, our vision was to share our insi
 
 - How the code works
 
-- Demonstration Example 1
+- Demonstration Customer 1
 
     - House section
 
     - Mortage and Stamp Duty Calculator
 
-- Demonstration Example 2
+- Demonstration Customer 2
 
     - House section
 
@@ -54,10 +54,10 @@ Figure 1: The Project 1 Team structure.
 ## Introducing your TEAM ONE Project Team:
 
 1.  Akhil - Subject Matter expert
-2.  Vicky - Finance Manager - speciallising in loan structures
-3.  Lachlan - Project Director
-4.  Danni - Code Strategist
-5.  Leigh - Analysist and Media services
+2.  Vicky - Finance Manager - specialising in loan structures
+3.  Lachlan - Project Director and Customer 2
+4.  Danni - Code Strategy and Analytics
+5.  Leigh - Analysis and Media services
 ## The data sources
 We have searched, extrapoloted and cleaned data from sites including Kaggle and 'Real Estate Property Price' to look at historic and current valuations. After appliying our metrics across the different data sets we are able to present the data that is important to you to make an informed decision.
 ## Our notebook
@@ -70,7 +70,7 @@ Using our proprietry DataFrame, the client can then simply answer some simple pr
 - Distance from CDB
 - Preferred land size
 
-It is ok if they dont have all the answers in the beginning. Our system will bring forward some great suggetions to get you started. The below output is based on selection inputs including; 2 bedrooms, a budget of $300,000 and it should be walking distance from the CBD, in which case we suggested 2000mtrs would be a nice walking disctance. No other inputs were required to pull the following properties from our DataFrame.
+It is ok if they dont have all the answers in the beginning. Our system will bring forward some great suggetions to get you started. The below output is based on selection inputs including; 2 bedrooms, a budget of $280,000 and it should be walking distance from the CBD, in which case we suggested 2000mtrs would be a nice walking disctance. No other inputs were required to pull the following properties from our DataFrame.
 
 ![Results_1](Results_1.png)
 
@@ -88,9 +88,11 @@ We have included other elements that come into Real Estate evaluation including 
 
 Lets discover your opportunities and enter what you know into this powerfully efficient tool.
 
-**Example 1:**
+**Introducing  Cusomter 1:**
 
-#### Some key criteria to start the search requirements...
+* Hello, Please tell us your story ...* 
+
+#### And would you be able to outline some key criteria of your requirements
 - How many bedrooms do you prefer?
 - Would you like minimum land size?
 - Do you have an ideal distance form the CBD?
@@ -101,9 +103,11 @@ Lets discover your opportunities and enter what you know into this powerfully ef
 ![Customer_1_output_2](/Customer_1_map.png)
 #  #
 ![TEAM_1_Ocean_views](/TEAM_1_Ocean.png)
-**Example 2:**
+**Introducing Cusomter 2:**
 
-#### Enter some key criteria and test our finance calculations
+*Hi, Please tell us your story ...* 
+
+#### And would you be able to outline some key criteria of your finance requirements
 
 - Do you have a budget in mind?
 - And over how many years?
