@@ -50,9 +50,10 @@ Figure 1: The Project 1 Team structure.
 
 1.  Akhil - Subject Matter expert
 2.  Vicky - Finance Manager - speciallising in loan structures
-3.  Lachlan - Project Director and Customer 2
-4.  Danni - Code Strategy and Demonstration Customer 1
+3.  Lachlan - Project Director and Github Manager
+4.  Danni - Code Strategy
 5.  Leigh - Analysis and Media services
+
 ## The data sources
 We have searched, extrapoloted and cleaned data from sites including Kaggle and 'Real Estate Property Price' to look at historic and current valuations. After appliying our metrics across the different data sets we are able to present the data that is important to you to make an informed decision.
 ## Our notebook
